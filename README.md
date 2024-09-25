@@ -41,5 +41,4 @@ Untuk menjalankan dasbor interaktif:
 2. Jalankan aplikasi Streamlit:
    ```bash
    streamlit run dashboard.py
-   ```"# Submission_Analisis_Data_Dengan_Python" 
-"# Submission-Belajar-Analisis-Data-dengan-Python" 
+   ```
